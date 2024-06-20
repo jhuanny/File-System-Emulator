@@ -1,6 +1,6 @@
 This program emulates a simplified file system using actual files to reduce complexity. It supports basic file system operations such as navigating directories and modifying the file system structure. The key features and functionalities include:
 
-#Directory and File Support: 
+#Directory and File Support#
 The program can handle both directories and regular files, allowing users to navigate and modify the file system.
 #Command-Line Interface: 
 Users interact with the file system through a command-line interface, providing commands to traverse and manipulate the directory structure.
